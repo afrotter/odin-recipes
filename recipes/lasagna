@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <title></title>
+    </head>
+
+    <body>
+        <h1>Easy Lasagna Recipe</h1>
+
+        <img src="https://thecozycook.com/wp-content/uploads/2022/04/Lasagna-Recipe-f.jpg">
+        <h3>Our delectable lasagna ready to be served!</h3>
+        <br>
+        <p>This easy homemade lasagna recipe is perfect for the whole family. Made with fresh locally sourced Italian ingredients.</p>
+        
+        <h2>ingredients</h2>
+        <li>
+            <ul>Pasta</ul>
+            <ul>Ground beef</ul>
+            <ul>Tomatoes</ul>
+            <ul>Parsley</ul>
+            <ul>Cheese</ul>
+        </li>
+        <li>
+            <ol>Preheat the oven at 180 degrees</ol>
+            <ol>Cook the ground beef until nearly fully cooked</ol>
+            <ol>Cover the bottom of your baking dish with the ground beef</ol>
+            <ol>Layer the pasta slices until</ol>  
+        </li>
+
+    </body>
+
+
+</html>
